@@ -10,5 +10,5 @@ Broadcasting messages to all connected clients.
 How remote commands could be sent and handled in a controlled, simulated environment.
 Terminal-based UI enhancements (colorful banners and messages).
 
-use telnet <ip adr> 587 # for control
-use telnet <ip adr> 6478 # for slave
+use telnet <ip adr 587 # for control
+use telnet <ip adr 6478 # for slave
